@@ -1,0 +1,11 @@
+c:\users\james\documents\visual studio 2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe.config
+C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe.config
+C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\obj\Debug\SLCdaily.ProjectInstaller.resources
+C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\obj\Debug\SLCdaily.csproj.GenerateResource.Cache
+C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.pdb
+C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\obj\Debug\SLCdaily.exe
+C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\obj\Debug\SLCdaily.pdb
+C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\MySql.Data.dll
+C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\MySql.Data.xml
+C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\obj\Debug\SLCdaily.csprojResolveAssemblyReference.cache

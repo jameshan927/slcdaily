@@ -1,0 +1,568 @@
+﻿Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Rolling back assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Restoring event log to previous state for source SimpleService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+An exception occurred in the OnAfterInstall event handler of SLCdaily.ProjectInstaller.
+System.InvalidOperationException: Cannot start service SimpleService on computer '.'.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: Access is denied.
+Rolling back assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Restoring event log to previous state for source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Rolling back assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+An exception occurred in the OnAfterInstall event handler of SLCdaily.ProjectInstaller.
+System.InvalidOperationException: Cannot start service SimpleService on computer '.'.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: The service did not start due to a logon failure.
+Rolling back assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Restoring event log to previous state for source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCdaily.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Attempt to stop service SimpleService.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Installing service SLCdaily...
+Service SLCdaily has been successfully installed.
+Creating EventLog source SLCdaily in log Application...
+Committing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+Removing EventLog source SLCdaily.
+Service SLCdaily is being removed from the system...
+Service SLCdaily was successfully removed from the system.
+Uninstalling assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+Removing EventLog source SLCdaily.
+Warning: The source SLCdaily is not registered on the local machine.
+Service SLCdaily is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Installing service SLCdaily...
+Service SLCdaily has been successfully installed.
+Creating EventLog source SLCdaily in log Application...
+Committing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+Removing EventLog source SLCdaily.
+Service SLCdaily is being removed from the system...
+Service SLCdaily was successfully removed from the system.
+Attempt to stop service SLCdaily.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Installing service SLCdaily...
+Service SLCdaily has been successfully installed.
+Creating EventLog source SLCdaily in log Application...
+Committing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+Removing EventLog source SLCdaily.
+Service SLCdaily is being removed from the system...
+Service SLCdaily was successfully removed from the system.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Installing service SLCdaily...
+Service SLCdaily has been successfully installed.
+Creating EventLog source SLCdaily in log Application...
+Committing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+Removing EventLog source SLCdaily.
+Service SLCdaily is being removed from the system...
+Service SLCdaily was successfully removed from the system.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Installing service SLCdaily...
+Service SLCdaily has been successfully installed.
+Creating EventLog source SLCdaily in log Application...
+Committing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+Removing EventLog source SLCdaily.
+Service SLCdaily is being removed from the system...
+Service SLCdaily was successfully removed from the system.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Installing service SLCdaily...
+Service SLCdaily has been successfully installed.
+Creating EventLog source SLCdaily in log Application...
+Committing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+Removing EventLog source SLCdaily.
+Service SLCdaily is being removed from the system...
+Service SLCdaily was successfully removed from the system.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Installing service SLCdaily...
+Service SLCdaily has been successfully installed.
+Creating EventLog source SLCdaily in log Application...
+Committing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+Removing EventLog source SLCdaily.
+Service SLCdaily is being removed from the system...
+Service SLCdaily was successfully removed from the system.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Installing service SLCdaily...
+Service SLCdaily has been successfully installed.
+Creating EventLog source SLCdaily in log Application...
+Committing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+Removing EventLog source SLCdaily.
+Service SLCdaily is being removed from the system...
+Service SLCdaily was successfully removed from the system.
+Attempt to stop service SLCdaily.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Installing service SLCdaily...
+Service SLCdaily has been successfully installed.
+Creating EventLog source SLCdaily in log Application...
+Committing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+Removing EventLog source SLCdaily.
+Service SLCdaily is being removed from the system...
+Service SLCdaily was successfully removed from the system.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Installing service SLCdaily...
+Service SLCdaily has been successfully installed.
+Creating EventLog source SLCdaily in log Application...
+Committing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+Removing EventLog source SLCdaily.
+Service SLCdaily is being removed from the system...
+Service SLCdaily was successfully removed from the system.
+Attempt to stop service SLCdaily.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Installing service SLCdaily...
+Service SLCdaily has been successfully installed.
+Creating EventLog source SLCdaily in log Application...
+Committing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+Removing EventLog source SLCdaily.
+Service SLCdaily is being removed from the system...
+Service SLCdaily was successfully removed from the system.
+Installing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Installing service SLCdaily...
+Service SLCdaily has been successfully installed.
+Creating EventLog source SLCdaily in log Application...
+Committing assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.InstallLog
+   assemblypath = C:\Users\james\Documents\VisualStudio2015\Projects\SLCdaily\SLCdaily\bin\Debug\SLCDaily.exe
+Removing EventLog source SLCdaily.
+Service SLCdaily is being removed from the system...
+Service SLCdaily was successfully removed from the system.
+Attempt to stop service SLCdaily.
