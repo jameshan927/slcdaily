@@ -1,0 +1,41 @@
+#questionhead {
+	text-align: center;
+}
+
+#question {
+	text-align: center;
+}
+
+
+
+#pagewrap {
+	padding: 20px;
+}
+
+#content {
+	width: 495px;
+	float: left;
+	padding: 5px 15px;
+}
+
+#middle {
+	width: 495px; /* Account for margins + border values */
+	float: left;
+	padding: 5px 15px;
+	margin: 0px 5px 5px 5px;
+}
+
+#sidebar {
+	width: 495px;
+	padding: 5px 15px;
+	float: left;
+}
+
+
+#content, #middle, #sidebar {
+	margin-bottom: 5px;
+}
+
+#content, #middle, #sidebar {
+	border: solid 1px #ccc;
+}
